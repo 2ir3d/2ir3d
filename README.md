@@ -1,7 +1,12 @@
-## Hi there 👋
+## Hellooo :)
+
+![Race Car Commit Graph](https://githubusercontent.com)
+
 
 <!--
 **2ir3d/2ir3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Idk honestly what I could do more here lol :)
 
 Here are some ideas to get you started:
 
