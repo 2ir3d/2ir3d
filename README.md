@@ -1,7 +1,4 @@
-## Hellooo :)
-
-![Race Car Commit Graph](https://githubusercontent.com)
-
+<h1> Hellooo :) <img src=".github/frog-jumping.gif" width="150" align="center"></h1>
 
 <!--
 **2ir3d/2ir3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
